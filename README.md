@@ -1,78 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hello,%20I'm%20Manal!&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Founder%20@Manalytics&descAlignY=51&descAlign=50" alt="Manal Rhoni Header" width="100%"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Manal+Rhoni;Data+Engineer+%26+Architect;Founder+of+Manalytics;Building+UniTime+%26+DataVail" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-
-  <a href="https://www.linkedin.com/in/manal-rhoni-aref" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:manal.rhoni@etu.uae.ac.ma">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  
-  <br />
-
-  <img src="https://komarev.com/ghpvc/?username=manalrhoni&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-
+  <i>"Bridging the gap between Software Engineering & Data Science."</i>
 </div>
 
----
-
-### 👩‍💻 **About Me**
-
-I am a **Data Analytics Engineering Student (LST AD)** at **FST Tangier**, passionate about transforming raw data into actionable insights. I bridge the gap between **Software Engineering** and **Data Science**.
-
-- 🔭 I’m currently building **[UniTime](https://github.com/manalrhoni/unitime)** (AI-Powered Scheduling).
-- 🌱 I’m currently learning **Advanced ETL & Cloud Architecture**.
-- 🏆 **Achievement:** 2nd Place Winner at **National Digi-Hackathon 2025**.
-- 💼 **Goal:** Seeking a **Data Engineering PFE** (End-of-Studies Internship).
-
----
-
-### 🛠️ **Tech Stack & Tools**
+<br />
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-  <br />
-
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
+  <a href="https://www.linkedin.com/in/manalrhoniaref">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rhonimanal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/manalrhoni">
+    <img src="https://img.shields.io/badge/Portfolio-Manal_Rhoni-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
+
+<br />
 
 ---
 
-### 🚀 **Featured Projects (My Portfolio)**
+### 👩‍💻 **The Engineer's Profile**
 
-| **Project** | **Description** | **Tech Stack** |
+I am a **Data Analytics Engineering Student (LST AD)** at **FST Tangier**, preparing to join **Aviv Group** for my End-of-Studies Project (PFE). I don't just analyze data; I build the **engines** that process it.
+
+* 🔭 **Flagship Project:** Architecting **[UniTime](https://github.com/manalrhoni/unitime)** (AI-Powered Scheduling System).
+* 💼 **Leadership:** Founder of **Manalytics** & **OrientManal** (+40k Community).
+* 🏆 **Awards:** **2nd Place National Winner** @ Digi-Hackathon 2025.
+* ⚡ **Superpower:** Converting business problems into scalable **Full-Stack Data Solutions**.
+
+---
+
+### 🛠️ **Technical Arsenal**
+
+| **Core Data Stack** | **Backend & DevOps** | **Intelligence & BI** |
 | :--- | :--- | :--- |
-| 🎓 **[UniTime](https://github.com/manalrhoni/unitime)** | Intelligent University Scheduling Assistant solving room conflicts with AI. | `FastAPI` `Docker` `React` `Ollama AI` |
-| 🖥️ **[DataVail](https://github.com/manalrhoni/datavail)** | IT Infrastructure & Resource Management System with ticketing workflow. | `Laravel 11` `MySQL` `RBAC` `Tailwind` |
-| 🤖 **[AI Excuse Generator](https://github.com/manalrhoni/ai-excuse-generator)** | Fun tool generating creative excuses using Generative AI models. | `Python` `OpenAI API` `Streamlit` |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![ETL](https://img.shields.io/badge/ETL_Pipelines-Success-success?style=flat-square) | ![Laravel](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Ollama](https://img.shields.io/badge/Ollama_AI-000000?style=flat-square&logo=ollama&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 
 ---
 
-### 📊 **GitHub Stats**
+### 📂 **Featured Work (Proof of Concept)**
+
+| Project | Role | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[🎓 UniTime](https://github.com/manalrhoni/unitime)** | **Lead Architect** | `FastAPI` `Docker` `React` `Ollama` | 🚀 **Live** |
+| **[🛠️ DataVail](https://github.com/manalrhoni/datavail)** | **Full-Stack Dev** | `Laravel 11` `MySQL` `RBAC` | ✅ **Completed** |
+| **[⚕️ BreakTaboo](https://github.com/manalrhoni)** | **Team Lead** | `Mobile Health` `AI` `Hackathon` | 🥈 **2nd Prize** |
+
+---
+
+### 📈 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manalrhoni&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Manal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalrhoni&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manalrhoni&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manalrhoni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalrhoni&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Languages" />
 </div>
 
 ---
 <div align="center">
-  <i>"Data is the new oil, but I build the engine."</i> 🔧
+  <p><i>Lets build something impactful together.</i></p>
+  <a href="mailto:rhonimanal@gmail.com"><b>📩 Contact Manal Rhoni</b></a>
 </div>
