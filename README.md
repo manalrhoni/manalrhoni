@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Manal+Rhoni;Data+Engineer+%26+Architect;Founder+of+Manalytics;Building+UniTime+%26+DataVail" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Manal+Rhoni+Aref;Data+Engineer+%26+Architect;Founder+of+Manalytics;Building+UniTime+%26+DataVail" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,9 +16,6 @@
   </a>
   <a href="mailto:rhonimanal@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/manalrhoni">
-    <img src="https://img.shields.io/badge/Portfolio-Manal_Rhoni-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
@@ -55,16 +52,7 @@ I am a **Data Analytics Engineering Student (LST AD)** at **FST Tangier**, prepa
 | **[⚕️ BreakTaboo](https://github.com/manalrhoni)** | **Team Lead** | `Mobile Health` `AI` `Hackathon` | 🥈 **2nd Prize** |
 
 ---
-
-### 📈 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manalrhoni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalrhoni&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Languages" />
-</div>
-
----
 <div align="center">
   <p><i>Lets build something impactful together.</i></p>
-  <a href="mailto:rhonimanal@gmail.com"><b>📩 Contact Manal Rhoni</b></a>
+  <a href="mailto:rhonimanal@gmail.com"><b>📩 Contact Manal Rhoni Aref</b></a>
 </div>
