@@ -25,7 +25,7 @@
 
 ### 👩‍💻 **The Engineer's Profile**
 
-I am a **Data Analytics Engineering Student (LST AD)** at **FST Tangier**, preparing to join **Aviv Group** for my End-of-Studies Project (PFE). I don't just analyze data; I build the **engines** that process it.
+I am a **Data Analytics Engineering Student (LST AD)** at **FST Tangier**, preparing to my End-of-Studies Project (PFE). I don't just analyze data; I build the **engines** that process it.
 
 * 🔭 **Flagship Project:** Architecting **[UniTime](https://github.com/manalrhoni/unitime)** (AI-Powered Scheduling System).
 * 💼 **Leadership:** Founder of **Manalytics** & **OrientManal** (+40k Community).
